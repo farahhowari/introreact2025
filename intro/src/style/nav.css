@@ -1,0 +1,21 @@
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+ul{
+    list-style: none;
+    display: flex;
+    gap: 20px;
+    margin-bottom: 150px;
+}
+img{
+    height: 120px;
+  margin-bottom: 60px;
+}
